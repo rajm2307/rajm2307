@@ -4,7 +4,6 @@
 - 📫 How to reach me!
 - Gmail :- rajmandal2302@gmail.com
 - LinkedIn :- https://www.linkedin.com/in/raj-mandal-294960253
-- 
 
 <!---
 rajm2307/rajm2307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
