@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajm2307
 - 👀 I’m interested in FRONTEND Development
-- 🌱 I’m currently learning FRONTEND Tools
+- 🌱 I’m currently learning FRONTEND Tools and also interseted in designing sites.
 - 📫 How to reach me!
 - Gmail :- rajmandal2302@gmail.com
 - LinkedIn :- https://www.linkedin.com/in/raj-mandal-294960253
