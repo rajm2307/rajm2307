@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajm2307
-- 👀 FRONTEND Developmer geek!
+- 👀 FRONTEND Developer geek!
 - 🌱 I’m currently learning FRONTEND development tools and exploring different types of unique Projects for sharpening my developing skills!
 - 📫 How to reach me!
 - Gmail :- rajmandal2302@gmail.com
